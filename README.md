@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Pro MERN Stack](https://images.springer.com/sgw/books/medium/9781484226520.jpg)
 
 This is the complete source code compilation of all code listings in the book
@@ -153,3 +154,7 @@ There are no code listings in this chapter.
 There are no code listings in this chapter.
 
 [Errata / Issues relating to Chapter 13](../../milestone/13)
+=======
+# pro-mern-stack-book-exercises
+Progressing through Pro MERN Stack, Vasan Subramanian
+>>>>>>> 4988898885578bff1c15a3433112110712a85005
