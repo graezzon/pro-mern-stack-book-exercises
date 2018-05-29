@@ -1,0 +1,26 @@
+{
+  "name": "pro-mern-stack-book-exercises",
+  "version": "1.0.0",
+  "description": "PRO MERN STACK EXERCISES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graezzon/pro-mern-stack-book-exercises.git"
+  },
+  "author": "graezzon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graezzon/pro-mern-stack-book-exercises/issues"
+  },
+  "homepage": "https://github.com/graezzon/pro-mern-stack-book-exercises#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
